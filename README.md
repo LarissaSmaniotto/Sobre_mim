@@ -15,7 +15,7 @@
  <br>
  
 # Um pouco sobre mim:
-###	Olá, me chamo Larissa Smaniotto, sou mato-grossense, atualmente morando no MT. Estudante do 5º semestre do curso de Bacharelado de Sistemas de Informação na Universidade do Estado do Mato Grosso (UNEMAT). No tempo que tenho livre, gosto aproveitar para ser criativa e ler livros de romance e ficção, assistir filmes e series principalmente dos universos da Marvel, Star Wars e Disney.
+###	Olá, me chamo Larissa Smaniotto, sou mato-grossense, atualmente morando no MT. Estudante do 8º semestre do curso de Bacharelado de Sistemas de Informação na Universidade do Estado do Mato Grosso (UNEMAT). No tempo que tenho livre, gosto aproveitar para ser criativa e ler livros de romance e ficção, assistir filmes e series principalmente dos universos da Marvel, Star Wars e Disney.
  
   ####  Me segue nas redes abaixo!
   larissa_s.araujo@hotmail.com
